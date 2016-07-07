@@ -10,7 +10,8 @@ public class MainClass {
 	}
 
 	private static void greetings() {
-		System.out.println("Greetings"); 
+		System.out.println("Greetings 12345"); 
+		System.out.println("abc");
 		
 	}
 
